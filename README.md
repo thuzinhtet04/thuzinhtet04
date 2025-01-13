@@ -1,4 +1,4 @@
-## Hi there 👋
+
 <h1 align="center">Hi 👋, I'm Thu Zin Htet</h1>
 <h3 align="center">A passionate frontend developer from Mandalay</h3>
 
