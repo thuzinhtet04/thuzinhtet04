@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Thu Zin Htet</h1>
-<h3 align="center">A passionate frontend developer from Mandalay</h3>
+<h3 align="center">A passionate web developer from Mandalay</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thuzinhtet04&label=Profile%20views&color=0e75b6&style=flat" alt="thuzinhtet04" /> </p>
 
