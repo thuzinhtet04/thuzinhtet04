@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋, I'm Thu Zin Htet</h1>
-<h3 align="center">A passionate frontend developer from Mandalay</h3>
+<h3 align="center">A passionate full-stack developer from Mandalay</h3>
 
-- 🔭 I’m currently working on [Portfolio Project](https://github.com/thuzinhtet04)
+- 🔭 I’m currently working on [LMS Project](https://github.com/one-project-one-month/LMS-Laravel)
 
 - 🌱 I’m currently learning **Laravel and fullStackDevelopment**
 
-- 👯 I’m looking to collaborate on **everything that I can**
+- 👯 I’m looking for a **Job opportunity**
 
 - 👨‍💻 All of my projects are available at [https://github.com/thuzinhtet04](https://github.com/thuzinhtet04)
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **React and Laravel**
 
 - 📫 How to reach me **thuzinhtet.dev@gmail.com**
 
 - 📄 Know about my experiences [https://github.com/thuzinhtet04](https://github.com/thuzinhtet04)
 
-- ⚡ Fun fact **I think I'm good at communication and funny .**
+- ⚡ Fun fact **I think I'm interested in learning how things work in background**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
